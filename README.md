@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @CraigP17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hey! I’m Craig Pinto
+
+I'm currently an upper year computer science student at Ryerson University with full stack and embedded software development experience. I'm always open to collaborate on projects and can help you build your next product.
+
+📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/CraigP17-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cpinto17/)](https://www.linkedin.com/in/cpinto17/)
+[![Gmail](https://img.shields.io/badge/-CraigPinto17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:craigpinto17@gmail.com)](mailto:craigpinto17@gmail.com)
+
+🔗 Check out my website: 
+
+[CraigP17.github.io](https://craigp17.github.io)
+
+<br>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CraigP17&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide=issues)
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=CraigP17&theme=codeSTACKr&layout=compact&hide=Roff&langs_count=5)
 
 <!---
 CraigP17/CraigP17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
