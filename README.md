@@ -16,6 +16,13 @@ I'm currently a computer science student at Ryerson University graduating in 202
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CraigP17&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide=issues)
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=CraigP17&theme=codeSTACKr&layout=compact&hide=Roff&langs_count=5)
 
+<br>
+
+## Badges
+
+
+[![@craigp17's Holopin board](https://holopin.me/craigp17)](https://holopin.io/@craigp17)
+
 <!---
 CraigP17/CraigP17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
