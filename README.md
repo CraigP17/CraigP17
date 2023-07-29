@@ -1,6 +1,6 @@
 ## 👋 Hey! I’m Craig Pinto
 
-I'm currently a computer science student at Ryerson University graduating in 2023. I have full stack and embedded software development experience from various projects and internships. I'm always open to collaborate on projects and can help you build your next product.
+I'm a recent computer science grad from Ryerson University. I have full stack and embedded software development experience from various projects and internships. I'm always open to collaborate on projects and can help you build your next product.
 
 📫 How to reach me:
 
