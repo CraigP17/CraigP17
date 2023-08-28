@@ -4,7 +4,7 @@ I'm a recent computer science grad from Ryerson University. I have full stack an
 
 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/CraigP17-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cpinto17/)](https://www.linkedin.com/in/cpinto17/)
+[![LinkedIn](https://img.shields.io/badge/CraigP17-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cpinto17/)](https://www.linkedin.com/in/craigp17/)
 [![Gmail](https://img.shields.io/badge/-CraigPinto17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:craigpinto17@gmail.com)](mailto:craigpinto17@gmail.com)
 
 🔗 Check out my website: 
