@@ -13,7 +13,7 @@ I'm a recent computer science grad from Ryerson University. I have full stack an
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=CraigP17&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide=issues)
+<!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=CraigP17&count_private=true&include_all_commits=true&show_icons=true&theme=codeSTACKr&hide=issues) -->
 ![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=CraigP17&theme=codeSTACKr&layout=compact&hide=Roff&langs_count=5)
 
 <br>
