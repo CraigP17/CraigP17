@@ -18,12 +18,6 @@ I'm a recent computer science grad from Ryerson University. I have full stack an
 
 <br>
 
-## Badges
+<!--- ## Badges -->
 
-
-[![@craigp17's Holopin board](https://holopin.me/craigp17)](https://holopin.io/@craigp17)
-
-<!---
-CraigP17/CraigP17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- [![@craigp17's Holopin board](https://holopin.me/craigp17)](https://holopin.io/@craigp17) -->
